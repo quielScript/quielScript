@@ -13,7 +13,7 @@
 > - **Discord Username**: `quielloveslasagna`
 > #
 
-### 👨‍💻 ​Programming​ Languages​: 
+### 👨‍💻 ​Technologies​: 
 <p align="center"> <!-- Center the whole block -->
   <div align="center"> <!-- Center the images within a div -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" >
