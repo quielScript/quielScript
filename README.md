@@ -39,6 +39,18 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="./assets/TailwindCSS-Dark.svg" alt="tailwindcss" width="40" height="40"/>
     </a>
+    &nbsp;&nbsp;
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+      <img src="./assets/NodeJS-Dark.png" alt="nodejs" width="40" height="40"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/MongoDB.png" alt="mongodb" width="40" height="40"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/ExpressJS-Dark.png" alt="express" width="40" height="40"/>
+    </a>
   </div>
 </p>
 
