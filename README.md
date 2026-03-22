@@ -70,3 +70,21 @@
     </a>
   </div>
 </p>
+
+### 📊 GitHub Statistics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quielScript&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=quielScript&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=quielScript&show_icons=true&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</p>
