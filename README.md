@@ -1,7 +1,7 @@
 ```js
 const DEVELOPER = {
   name: "Exequiel Arco",
-  role: ["Developer", "Student", "Mentor"],
+  roles: ["Developer", "Student", "Mentor"],
   education: "BSIT @ University of Mindanao",
 
   techStack: {
