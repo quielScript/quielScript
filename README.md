@@ -5,12 +5,12 @@ const DEVELOPER = {
   education: "BSIT @ University of Mindanao",
 
   techStack: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Tailwind CSS", "Sass"],
+    frontend: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Tailwind CSS", "Sass", "PHP", "Laravel"],
     backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
+    database: ["MongoDB", "MySQL"],
   },
 
-  tools: ["Git", "GitHub", "Figma"],
+  tools: ["Git", "GitHub", "Figma", "Postman"],
 
   contact: {
     linkedin: "https://linkedin.com/in/exequielarco",
@@ -33,7 +33,7 @@ const DEVELOPER = {
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quielScript&layout=compact&theme=tokyonight&hide_border=true" width="340" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quielScript&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="340" />
       </td>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards//most-commit-language?username=quielScript&theme=tokyonight" width="340" />
